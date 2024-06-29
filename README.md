@@ -1,4 +1,4 @@
-<h1>Tech Stack</h1>
+<h1>Tech</h1>
 <h3>Major</h3>
 <div>
   <img src="https://img.shields.io/badge/javascript-black?logo=javascript"/>
@@ -6,12 +6,11 @@
   <img src="https://img.shields.io/badge/react--native-black?logo=react"/>
   <img src="https://img.shields.io/badge/typescript-black?logo=typescript"/>
   <img src="https://img.shields.io/badge/nextjs-black?logo=Next.js"/>
-  <img src="https://img.shields.io/badge/sanity-black?logo=sanity"/>
-  <img src="https://img.shields.io/badge/swr-black?logo=swr"/>
+ 
   <img src="https://img.shields.io/badge/react--query-black?logo=reactquery"/>
   <br/>
   <img src="https://img.shields.io/badge/redux-black?logo=redux"/>
-  <img src="https://img.shields.io/badge/jotai-black?logo=jotai"/>
+
   <img src="https://img.shields.io/badge/jest-black?logo=jest"/>
   <img src="https://img.shields.io/badge/testing--library-black?logo=testinglibrary"/>
   <img src="https://img.shields.io/badge/tailwindCSS-black?logo=tailwindcss"/>
@@ -21,6 +20,9 @@
 </div>
 <h3>Minor</h3>
 <div>
+    <img src="https://img.shields.io/badge/jotai-black?logo=jotai"/>
+    <img src="https://img.shields.io/badge/sanity-black?logo=sanity"/>
+    <img src="https://img.shields.io/badge/swr-black?logo=swr"/>
     <img src="https://img.shields.io/badge/node-black?logo=Node.js"/>
     <img src="https://img.shields.io/badge/express-black?logo=express"/>
     <img src="https://img.shields.io/badge/mongoDB-black?logo=mongoDB"/>
